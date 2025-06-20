@@ -3,9 +3,9 @@ vida = 20
 vida1 = 40
 if socos > vida:
   if socos > vida1:
-    print "inimigos elimindos"
+    print ("inimigos elimindos")
   else :
-    print "quasse ganhou"
+    print ("quasse ganhou")
 else :
-  print "derrota"
+  print ("derrota")
 
