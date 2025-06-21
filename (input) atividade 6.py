@@ -13,7 +13,25 @@ name = input("Enter a name: ")
 adjetivo = input("Enter a adjective: ")
 adjetivo2 = input("Enter a adjective: ")
 adjetivo3= input("Enter a adjective: ")
+verbo = input("enter a verb:")
+noun = input("enter a noun:")
+noun1 = input("enter a noun:")
 
 print (name+ adjetivo + adjetivo2 + adjetivo3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
