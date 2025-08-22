@@ -13,5 +13,5 @@ while (numeroescolhido != numerocoreto) and numerodechanses > 0 :
     else:  
       print("tente um numero maior")
     numerodechanses -= 1
-    if numerodechanses == 0:
+    if numerodechanses == 0 and (numeroescolhido != numerocoreto):
         print("acabaram suas tentativas e o numero era " + str("numerodeaaleatorio"))
